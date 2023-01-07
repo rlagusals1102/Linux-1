@@ -2,3 +2,8 @@
 
 link : http://ftp.kaist.ac.kr/CentOS/7.9.2009/isos/x86_64/
 
+link 2 : https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+
+
+서버                        클라이언트
+기업용(서비스를 제공 운영)    일반(로컬) (서비스를이용[요청])
